@@ -1,4 +1,4 @@
-# contact_capture
+# ContactCapture
 
 Collect an email list, mobile phone numbers for text messaging, or public blockchain wallet addresses for airdrops.
 
