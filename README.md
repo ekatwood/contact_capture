@@ -2,15 +2,6 @@
 
 Collect an email list, mobile phone numbers for text messaging, or public blockchain wallet addresses for airdrops.
 
-## Getting Started
+Use a third party service for email and text messaging campaigns, or use the website's own airdrop feature to send an airdrop of x tokens evenly distributed to a comma separated list of public blockchain wallet addreses.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Implemented with Flutter, Firebase, Firestore, and Solana and Phantom Wallet browser extension.
